@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+   
+    
+
+header.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-image: url(https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Lansdowne%20banner.jpg);
+    background-size: cover;
+    height: 100vh;
+    flex-direction: column;
+
+}
+section.attraction{
+    display: flex;
+}
+section.attraction img{
+    width: 90px;
+}
+
